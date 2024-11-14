@@ -6,11 +6,12 @@ BiZnews is a modern news website that provides the latest headlines and informat
 
 Check out the live demo of the BiZnews website:
 
-[Live Demo]([https://your-live-demo-link.com](https://biznews-woad.vercel.app/))
+[Live Demo]([https://your-live-demo-link.com](https://biznews-woad.vercel.app/)
 
 Alternatively, you can watch a quick preview of the website in action below:
 
-![BiZnews Demo](https://link-to-your-demo-video-or-gif.com)
+![BiZnews ScreenShoot] ![image](https://github.com/user-attachments/assets/6891ecd0-b64d-41b3-b720-7ecbf7690f9f)
+
 
 ## Features
 
@@ -58,3 +59,4 @@ To run this project locally, follow these steps:
 
 ## Folder Structure
 
+/BiZnews ├── /components # Vue components (WeatherCard, StockCard, etc.) ├── /layouts # Layout files (default.vue, etc.) ├── /pages # Pages (Home.vue, Category.vue, etc.) ├── /assets # Static assets (images, styles, etc.) ├── /store # Vuex store (if applicable) ├── package.json # Project dependencies and scripts └── README.md # Project documentation
