@@ -12,6 +12,7 @@ Alternatively, you can watch a quick preview of the website in action below:
 
 ![BiZnews ScreenShoot] ![image](https://github.com/user-attachments/assets/6891ecd0-b64d-41b3-b720-7ecbf7690f9f)
 
+![image](https://github.com/user-attachments/assets/f737d3aa-7173-4dea-94ca-36d0070602c1)
 
 ## Features
 
