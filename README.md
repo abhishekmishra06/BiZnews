@@ -57,6 +57,4 @@ To run this project locally, follow these steps:
 
 4. Open your browser and go to `http://localhost:3000` to see the website in action.
 
-## Folder Structure
-
-/BiZnews ├── /components # Vue components (WeatherCard, StockCard, etc.) ├── /layouts # Layout files (default.vue, etc.) ├── /pages # Pages (Home.vue, Category.vue, etc.) ├── /assets # Static assets (images, styles, etc.) ├── /store # Vuex store (if applicable) ├── package.json # Project dependencies and scripts └── README.md # Project documentation
+ 
