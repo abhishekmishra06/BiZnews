@@ -2,6 +2,16 @@
 
 BiZnews is a modern news website that provides the latest headlines and information across various categories, including business, technology, entertainment, and more. The platform allows users to explore news articles from different sources such as Apple, Tesla, Business, and TechCrunch.
 
+## Demo
+
+Check out the live demo of the BiZnews website:
+
+[Live Demo]([https://your-live-demo-link.com](https://biznews-woad.vercel.app/))
+
+Alternatively, you can watch a quick preview of the website in action below:
+
+![BiZnews Demo](https://link-to-your-demo-video-or-gif.com)
+
 ## Features
 
 - **News Categories**: View news articles across different categories like Business, Technology, Apple, Tesla, and more.
@@ -47,3 +57,4 @@ To run this project locally, follow these steps:
 4. Open your browser and go to `http://localhost:3000` to see the website in action.
 
 ## Folder Structure
+
