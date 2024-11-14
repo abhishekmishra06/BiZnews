@@ -1,75 +1,49 @@
-# Nuxt Minimal Starter
+# BiZnews Website
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+BiZnews is a modern news website that provides the latest headlines and information across various categories, including business, technology, entertainment, and more. The platform allows users to explore news articles from different sources such as Apple, Tesla, Business, and TechCrunch.
+
+## Features
+
+- **News Categories**: View news articles across different categories like Business, Technology, Apple, Tesla, and more.
+- **Dynamic Content**: The homepage displays top headlines and cards for weather and stock market updates.
+- **Responsive Layout**: Optimized for both mobile and desktop screens.
+- **News Details**: Click on the "Read More" button to view detailed news articles on the news provider's website.
+- **Weather & Stock Info**: Get real-time weather and stock information alongside news articles.
+
+## Technologies Used
+
+- **Vue.js**: Frontend framework for building interactive user interfaces.
+- **Axios**: HTTP client for fetching news and weather data.
+- **News API**: API used for fetching the latest news articles.
+- **CSS**: Styling for the layout and components.
+- **Vue Router** (if applicable): For navigation between pages (based on your routing setup).
 
 ## Setup
 
-Make sure to install dependencies:
+To run this project locally, follow these steps:
 
-```bash
-# npm
-npm install
+### Prerequisites
 
-# pnpm
-pnpm install
+- **Node.js**: Ensure you have Node.js installed. If not, download and install it from [here](https://nodejs.org/).
 
-# yarn
-yarn install
+### Steps
 
-# bun
-bun install
-```
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/yourusername/BiZnews.git
+    cd BiZnews
+    ```
 
-## Development Server
+2. **Install dependencies**:
+    ```bash
+    npm install
+    ```
 
-Start the development server on `http://localhost:3000`:
+3. **Start the development server**:
+    ```bash
+    npm run dev
+    ```
 
-```bash
-# npm
-npm run dev
+4. Open your browser and go to `http://localhost:3000` to see the website in action.
 
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## Folder Structure
